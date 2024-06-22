@@ -15522,7 +15522,7 @@ function JA() {
                   }),
                   L.jsx("div", {
                     className: "text-sm max-w-md text-gray-900 mt-3",
-                    children: "The policies is provided below.",
+                    children: "The policy is provided below.",
                   }),
                   L.jsx("div", {
                     className: "mt-5",
